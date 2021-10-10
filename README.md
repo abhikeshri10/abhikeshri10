@@ -6,8 +6,10 @@
 🌱 I’m currently learning Android Development
 <br>
 ### 🐱My Github stats:
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhikeshri10&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-<br>
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhikeshri10&show_icons=true&theme=react)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhikeshri10&theme=react&langs_count=8) -->
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=abhikeshri10.abhikeshri10)
 [![Github](https://img.shields.io/github/followers/abhikeshri10?label=Followers&logo=Github)](https://github.com/abhikeshri10)
 ### 💞️ Connect with me:
